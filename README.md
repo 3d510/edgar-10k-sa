@@ -1,3 +1,5 @@
+# 2017.5.11: For Edgar MD&A Extraction, see [edgar-10k-mda](https://github.com/iammrhelo/edgar-10k-mda)
+---
 # edgar-10k-sa
 ---
 
